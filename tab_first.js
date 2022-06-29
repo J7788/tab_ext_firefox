@@ -6,7 +6,6 @@ document.addEventListener('keydown', (event) => {
             'a[href]:not([disabled])'
             );
         focusabeElements[26]?.focus();
-        console.log(focusabeElements)
         event.preventDefault();
         new_page = false;
     }
