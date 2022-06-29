@@ -1,1 +1,2 @@
-# tab_ext_firefox
+# Tab Directly to Google Search Results for Firefox
+### Whenever I just want to  browse the internet with just my keyboard I get so irritated when I have to tab like 10 times to get to the first search result in google. This extension aims to fix that.
